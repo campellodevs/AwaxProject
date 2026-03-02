@@ -2,6 +2,8 @@
 
 #📱 Sobre o Projeto
 
+https://campellodevs.github.io/AwaxProject/
+
 #### Este é um projeto de estudo e treino de front-end, focado exclusivamente no desenvolvimento visual e responsivo de uma landing page. O objetivo principal foi praticar a criação de interfaces modernas, com ênfase na versão mobile e na implementação de um menu hambúrguer funcional e estilizado.
 
 #### O projeto é baseado no layout "Awax", um tema clássico para estudos de HTML, CSS e JavaScript, e foi adaptado para oferecer uma experiência fluida tanto em desktop quanto em dispositivos móveis.
