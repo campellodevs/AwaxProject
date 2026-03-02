@@ -1,13 +1,13 @@
-Awax Project - Versão Mobile
+# Awax Project - Versão Mobile
 
-📱 Sobre o Projeto
+#📱 Sobre o Projeto
 
-Este é um projeto de estudo e treino de front-end, focado exclusivamente no desenvolvimento visual e responsivo de uma landing page. O objetivo principal foi praticar a criação de interfaces modernas, com ênfase na versão mobile e na implementação de um menu hambúrguer funcional e estilizado.
+#### Este é um projeto de estudo e treino de front-end, focado exclusivamente no desenvolvimento visual e responsivo de uma landing page. O objetivo principal foi praticar a criação de interfaces modernas, com ênfase na versão mobile e na implementação de um menu hambúrguer funcional e estilizado.
 
-O projeto é baseado no layout "Awax", um tema clássico para estudos de HTML, CSS e JavaScript, e foi adaptado para oferecer uma experiência fluida tanto em desktop quanto em dispositivos móveis.
-🎯 Conceito do Projeto
+#### O projeto é baseado no layout "Awax", um tema clássico para estudos de HTML, CSS e JavaScript, e foi adaptado para oferecer uma experiência fluida tanto em desktop quanto em dispositivos móveis.
+# 🎯 Conceito do Projeto
 
-A ideia central foi treinar habilidades de front-end através da construção de uma página completa, aplicando conceitos como:
+### A ideia central foi treinar habilidades de front-end através da construção de uma página completa, aplicando conceitos como:
 
     Design Responsivo: A página se adapta perfeitamente a diferentes tamanhos de tela, desde monitores grandes até smartphones.
 
@@ -17,7 +17,7 @@ A ideia central foi treinar habilidades de front-end através da construção de
 
     Interatividade: Elementos como hover effects, transições suaves e um menu funcional.
 
-🛠️ Tecnologias Utilizadas
+# 🛠️ Tecnologias Utilizadas
 
     HTML5 - Estrutura semântica da página
 
@@ -27,7 +27,7 @@ A ideia central foi treinar habilidades de front-end através da construção de
 
     Google Fonts - Fonte Montserrat para tipografia moderna
 
-📂 Estrutura de Arquivos
+# 📂 Estrutura de Arquivos
 text
 
 awax-project/
@@ -42,7 +42,7 @@ awax-project/
 │
 └── README.md           # Documentação do projeto
 
-📱 Funcionalidades Mobile
+# 📱 Funcionalidades Mobile
 Menu Hambúrguer Moderno
 
     Ícone de três linhas que se transforma em um "X" ao ser clicado
@@ -55,7 +55,7 @@ Menu Hambúrguer Moderno
 
     Fecha ao clicar em um link ou fora do menu
 
-Layout Responsivo
+# Layout Responsivo
 
     Cabeçalho fixo com altura reduzida para mobile
 
@@ -69,7 +69,7 @@ Layout Responsivo
 
     Footer empilhado verticalmente
 
-🎨 Paleta de Cores
+# 🎨 Paleta de Cores
 Cor	Código	Uso
 Preto	#000000	Background do cabeçalho e seções dark
 Laranja	#B28756	Destaques, botões e menu hambúrguer
@@ -83,7 +83,7 @@ Branco	#FFFFFF	Textos e elementos de contraste
 
     Mobile: até 768px (menu hambúrguer e layout empilhado)
 
-🚀 Como Executar
+# 🚀 Como Executar
 
     Clone o repositório:
     bash
@@ -109,7 +109,7 @@ Branco	#FFFFFF	Textos e elementos de contraste
 
     Para testar a versão mobile, abra as Ferramentas do Desenvolvedor (F12) e ative o modo de visualização responsiva.
 
-📚 O que foi praticado
+# 📚 O que foi praticado
 
     ✔️ Estruturação semântica com HTML5
 
@@ -129,7 +129,7 @@ Branco	#FFFFFF	Textos e elementos de contraste
 
     ✔️ Menu hambúrguer do zero
 
-💡 Próximos Passos (para continuar treinando)
+# 💡 Próximos Passos (para continuar treinando)
 
     Adicionar mais seções ao projeto
 
@@ -141,9 +141,9 @@ Branco	#FFFFFF	Textos e elementos de contraste
 
     Integrar com uma API para conteúdo dinâmico
 
-📝 Observações
+# 📝 Observações
 
 Este projeto foi desenvolvido exclusivamente para fins de estudo e prática. Todo o código foi escrito manualmente, sem uso de frameworks, para fortalecer os fundamentos de front-end. A versão mobile foi priorizada para treinar as habilidades de design responsivo e experiência do usuário em dispositivos móveis.
-👨‍💻 Autor
+# 👨‍💻 Autor
 
-Desenvolvido como parte de estudos de desenvolvimento web front-end.
+Desenvolvido por Lucca Campello em 2026como parte de estudos de desenvolvimento web front-end.
