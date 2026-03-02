@@ -638,7 +638,7 @@ header {
     color: #666;
 }
 
-/* ===== MEDIA QUERY PARA MOBILE ===== */
+    
 @media (max-width: 768px) {
     
     header {
@@ -664,12 +664,12 @@ header {
         border-radius: 25px;
     }
 
-    /* MOSTRAR BOTÃO MENU */
+    
     .menu-toggle {
         display: flex;
     }
 
-    /* ESCONDER MENU NORMAL E MOSTRAR VERSÃO MOBILE */
+    
     .menu {
         position: fixed;
         top: 70px;
@@ -714,7 +714,7 @@ header {
         color: #B28756;
     }
 
-    /* BANNER */
+   
     .banner {
         margin-top: 70px;
         height: calc(100vh - 70px);
@@ -742,7 +742,6 @@ header {
         bottom: 20px;
     }
 
-    /* SEÇÕES GERAIS */
     .default {
         padding-top: 40px;
         padding-bottom: 40px;
@@ -761,7 +760,7 @@ header {
         margin-bottom: 30px;
     }
 
-    /* ABOUT US MOBILE */
+ 
     .section-aboutus {
         flex-direction: column;
         gap: 30px;
@@ -787,7 +786,6 @@ header {
         margin-left: 0;
     }
 
-    /* SERVICES MOBILE */
     .section-services {
         flex-direction: column;
     }
@@ -817,7 +815,6 @@ header {
         margin-top: 15px;
     }
 
-    /* PROJECTS MOBILE */
     .section-projects--filters {
         width: 100%;
         overflow-x: auto;
@@ -856,7 +853,7 @@ header {
         aspect-ratio: 260/160;
     }
 
-    /* TEAM MOBILE */
+    
     .section-team-area {
         overflow-x: auto;
         padding: 20px 0;
@@ -900,7 +897,7 @@ header {
         margin-top: 30px;
     }
 
-    /* FOOTER MOBILE */
+   
     .footer-area {
         flex-direction: column;
         gap: 40px;
